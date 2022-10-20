@@ -1,4 +1,41 @@
-.lol{
+body{
+    gap:0px;
+    margin:0px;
+    padding:0px;
+    background-color:grey;
+}
+
+.header{
     display:flex;
-    background-color:green;
+    justify-content:center;
+    width:100%;
+    font-size:6rem;
+}
+
+.score{
+    display:flex;
+    justify-content:center;
+    width:100%;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-size:3rem;
+}
+
+.itemboard{
+    display:flex;
+    justify-content:space-around;
+    background-color:grey;
+    width:100%;
+    height:auto;
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+.items1{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:20%;
+    padding-top:20px;
+    height:300px;
 }

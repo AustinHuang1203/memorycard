@@ -1,12 +1,10 @@
 import React, {useState} from 'react'
+import '../styles/style.css'
 
 export default function Items(props) {
-    console.log(props.imagelink)
-    const yes = props.imagelink;
-    console.log(yes)
   return (
-    <div>
-    <img src={require(yes)} alt={props.name} height="300px" width="300px"/>
+    <div onClick={props.select1} class="items1">
+    <img src={require(`../images/${props.imagelink}`)} alt={props.name}height="80%" width="auto"/>
     </div>
   )
 }
