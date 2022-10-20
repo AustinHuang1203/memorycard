@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/memorycard/static/css/main.156ca437.css",
+    "main.js": "/memorycard/static/js/main.00a96faa.js",
+    "static/media/donut.png": "/memorycard/static/media/donut.4f092deaa95413637704.png",
+    "static/media/pizza.png": "/memorycard/static/media/pizza.deb0ec5218252a389a02.png",
+    "static/media/noodle.png": "/memorycard/static/media/noodle.3855527937704f0f0354.png",
+    "static/media/burger.png": "/memorycard/static/media/burger.6f4216ee2277353d3e9b.png",
+    "static/media/rice.png": "/memorycard/static/media/rice.3aed1bff4e28e78c298e.png",
+    "static/media/ice-cream.png": "/memorycard/static/media/ice-cream.9c2651a2a9e06c0baa22.png",
+    "index.html": "/memorycard/index.html",
+    "main.156ca437.css.map": "/memorycard/static/css/main.156ca437.css.map",
+    "main.00a96faa.js.map": "/memorycard/static/js/main.00a96faa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.156ca437.css",
+    "static/js/main.00a96faa.js"
+  ]
+}
