@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/memorycard/static/css/main.156ca437.css",
-    "main.js": "/memorycard/static/js/main.00a96faa.js",
+    "main.css": "/memorycard/static/css/main.33288ea8.css",
+    "main.js": "/memorycard/static/js/main.fe32e0f6.js",
     "static/media/donut.png": "/memorycard/static/media/donut.4f092deaa95413637704.png",
     "static/media/pizza.png": "/memorycard/static/media/pizza.deb0ec5218252a389a02.png",
+    "static/media/french-fries.png": "/memorycard/static/media/french-fries.692d58ee51fadb7dea8e.png",
+    "static/media/egg.png": "/memorycard/static/media/egg.eb34b108a9b05c66607e.png",
     "static/media/noodle.png": "/memorycard/static/media/noodle.3855527937704f0f0354.png",
     "static/media/burger.png": "/memorycard/static/media/burger.6f4216ee2277353d3e9b.png",
     "static/media/rice.png": "/memorycard/static/media/rice.3aed1bff4e28e78c298e.png",
+    "static/media/sushi.png": "/memorycard/static/media/sushi.158c3aa1e49e52d6c1f0.png",
+    "static/media/milk-tea.png": "/memorycard/static/media/milk-tea.1b056880ab6219088439.png",
+    "static/media/soup.png": "/memorycard/static/media/soup.0ba7b1191ee3027746a4.png",
     "static/media/ice-cream.png": "/memorycard/static/media/ice-cream.9c2651a2a9e06c0baa22.png",
+    "static/media/steak.png": "/memorycard/static/media/steak.8423cd2c4de3d73b4834.png",
     "index.html": "/memorycard/index.html",
-    "main.156ca437.css.map": "/memorycard/static/css/main.156ca437.css.map",
-    "main.00a96faa.js.map": "/memorycard/static/js/main.00a96faa.js.map"
+    "main.33288ea8.css.map": "/memorycard/static/css/main.33288ea8.css.map",
+    "main.fe32e0f6.js.map": "/memorycard/static/js/main.fe32e0f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.156ca437.css",
-    "static/js/main.00a96faa.js"
+    "static/css/main.33288ea8.css",
+    "static/js/main.fe32e0f6.js"
   ]
 }
